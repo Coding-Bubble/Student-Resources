@@ -65,7 +65,7 @@ https://www.datacamp.com/github-students  [ Regarding data science , ai , python
 
 You can additionally get unlimited guided projects from coursera and 1 course per year from our college Dr. NGP institute of technology.
 
-## Programming Practise
+## Competitive Programming - sites and resources
 
 https://www.hackerrank.com/
 
@@ -74,6 +74,8 @@ https://www.hackerearth.com/
 https://www.codechef.com/
 
 https://codeforces.com/
+
+http://cp-algorithms.com/  Descriptions and code of algorithms and data structures
 
 ## Cloud Resources
 
